@@ -1,5 +1,5 @@
-# learn process
+## Learn process
 * blinky
 
-# Contribution
-@andylokandy
+## Contribution
+- [Andy Lok](https://github.com/andylokandy)
