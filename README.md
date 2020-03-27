@@ -1,4 +1,4 @@
-## Learn process
+## Learning process
 * blinky
 
 ## Contribution
